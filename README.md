@@ -72,6 +72,7 @@ behavior and identify potential security threats.
 | File | Description |
 |------|-------------|
 | Wireshark_SOC_Report_Pramodh.docx |  Full SOC investigation report with screenshots |
+| Wireshark_SOC_Report_Pramodh.pdf |  Full SOC investigation report with screenshots |
 
 ---
 
